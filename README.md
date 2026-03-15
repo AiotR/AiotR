@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C1D10C&center=true&vCenter=true&width=700&lines=Kaixo%2C+ni+AiotR+naiz+%F0%9F%91%8B;Hola%2C+soy+AiotR+%F0%9F%91%8B;Eraikitzen+ari+naiz+etorkizuna..." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C1D10C&center=true&vCenter=true&width=700&lines=Kaixo%2C+ni+Aitor+naiz+%F0%9F%91%8B;Hola%2C+soy+Aitor+%F0%9F%91%8B;LH-tan ikertzen..." alt="Typing SVG">
 
 <br/>
 
