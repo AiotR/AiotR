@@ -17,7 +17,7 @@
 
 ### 🛡️ Niri buruz / Sobre mí
 
-> Pasionatua teknologia, automatizazioa eta Adimen Artifizialaren alorretan. Tknika-n berrikuntza lantzen dut, tresna adimentsuak eraikiz erakundeei etorkizuna ulertzen laguntzeko.
+> Teknologia, automatizazioa eta Adimen Artifiziala dira nire ardatza. Tknika-n berrikuntza lantzen dut, LH-ko ikastetxeei etorkizuna ulertzen eta erronka berriei aurre egiten laguntzeko tresna adimentsuak garatuz.
 
 > Apasionado de la tecnología, la automatización y la Inteligencia Artificial. En Tknika trabajo la innovación, construyendo herramientas inteligentes para ayudar a las organizaciones a entender el futuro.
 
