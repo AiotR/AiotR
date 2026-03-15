@@ -28,7 +28,7 @@
 | | Proiektua | Deskribapena |
 |--|-----------|-------------|
 | 🛡️ | **[Zaintza Bot](https://github.com/AiotR/zaintza-bot)** | Bot aurreratua Zaintza Teknologikorako Tknika-n. YouTube, Web, PDF-tik edukia atera eta IA bidezko txostenak sortzen ditu. |
-| 🏠 | **[Etxeko Bot](https://github.com/AiotR/etxeko-bot)** | Autonomoentzako gastuen asistentea. Fakturen prozesatze automatikoa (IA + OCR), Gmail monitorizazioa, Google Sheets integrazioa eta pribatutasun maximoa (IA lokala Ollama bidez). Dockerizatuta. |
+| 🏠 | **[Etxeko Bot](https://github.com/AiotR/EtxekoBOT)** | Autonomoentzako gastuen asistentea. Fakturen prozesatze automatikoa (IA + OCR), Gmail monitorizazioa, Google Sheets integrazioa eta pribatutasun maximoa (IA lokala Ollama bidez). Dockerizatuta. |
 | 🏗️ | **[SCLF Meta-Workspace](https://github.com/AiotR/SCLF-Meta-Workspace)** | Tknika-ko SCLF proiektuen biltegi nagusia. Azpiproiektu anitz barne hartzen ditu. |
 | 📦 | **[SED](https://github.com/AiotR/SED)** | 80552C mikrokontrolagailua programatzeko proiektua (8051 familia), C lengoaia eta Keil μVision plataforma erabilita. Praktikak, azterketak eta soluzioak barne. |
 
