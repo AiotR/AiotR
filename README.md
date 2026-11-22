@@ -24,6 +24,8 @@ Tknika-ko **IoM (Intelligence of Machines)** arloa: industria-prozesuen digitali
 |-----------|-----------------|
 | **[SCLF Meta-Workspace](https://github.com/Tknika-SCLF/SCLF-Meta-Workspace)** | Tknika-ko SCLF proiektuen biltegi nagusia. <br/><sub>Repositorio central de los proyectos SCLF de Tknika.</sub> |
 | **[SCLF Gripper](https://github.com/Tknika-SCLF/sclf-gripper)** | SCLF proiektuko gripper-a. <br/><sub>Gripper del proyecto SCLF.</sub> |
+| **IkasMES** 🔒 | IkasFabrika-ren MES sistema: produkzioaren kudeaketa eta telemetria. <br/><sub>MES de IkasFabrika: gestión de producción y telemetría.</sub> |
+| **ThingsBoard Docker** 🔒 | ThingsBoard IoT plataforma Docker bidez hedatzeko. <br/><sub>Despliegue de la plataforma IoT ThingsBoard con Docker.</sub> |
 | **[SED](https://github.com/AiotR/SED)** | 80C552 mikrokontrolagailuaren praktikak (8051 familia, C51, Keil µVision). <br/><sub>Prácticas del microcontrolador 80C552.</sub> |
 | **Zaintza Bot** 🔒 | Zaintza teknologikorako bota: YouTube, web eta PDF iturrietatik edukia jaso eta IA bidezko txostenak sortzen ditu. <br/><sub>Bot de vigilancia tecnológica que genera informes con IA.</sub> |
 
