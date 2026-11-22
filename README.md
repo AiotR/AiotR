@@ -23,9 +23,9 @@ Tknika-ko **IoM (Intelligence of Machines)** arloa: industria-prozesuen digitali
 | Proiektua | Zer da · Qué es |
 |-----------|-----------------|
 | **[SCLF Meta-Workspace](https://github.com/Tknika-SCLF/SCLF-Meta-Workspace)** | Tknika-ko SCLF proiektuen biltegi nagusia. <br/><sub>Repositorio central de los proyectos SCLF de Tknika.</sub> |
+| **[SCLF Gripper](https://github.com/Tknika-SCLF/sclf-gripper)** | SCLF proiektuko gripper-a. <br/><sub>Gripper del proyecto SCLF.</sub> |
 | **[SED](https://github.com/AiotR/SED)** | 80C552 mikrokontrolagailuaren praktikak (8051 familia, C51, Keil µVision). <br/><sub>Prácticas del microcontrolador 80C552.</sub> |
 | **Zaintza Bot** 🔒 | Zaintza teknologikorako bota: YouTube, web eta PDF iturrietatik edukia jaso eta IA bidezko txostenak sortzen ditu. <br/><sub>Bot de vigilancia tecnológica que genera informes con IA.</sub> |
-| **Etxeko Bot** 🔒 | Autonomoentzako gastuen laguntzailea: fakturak IA + OCR bidez, Gmail eta Google Sheets, IA lokala Ollama-rekin. <br/><sub>Asistente de gastos para autónomos con IA local.</sub> |
 
 <sub>🔒 Biltegi pribatua · Repositorio privado</sub>
 
