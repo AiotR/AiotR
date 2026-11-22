@@ -2,9 +2,9 @@
 
 # Kaixo, Aitor naiz 👋
 
-**Berrikuntza eta Zaintza Teknologikoa · Tknika**
+**IoM · Intelligence of Machines · Tknika**
 <br/>
-<sub>Innovación y Vigilancia Tecnológica en Tknika</sub>
+<sub>Automatizazio industrial adimentsua · Automatización industrial inteligente</sub>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ### Niri buruz · Sobre mí
 
-Lanbide Heziketarako tresna adimentsuak garatzen ditut: automatizazioa, adimen artifiziala eta botak, ikastetxeek teknologia berriak ulertu eta erabil ditzaten.
+Tknika-ko **IoM (Intelligence of Machines)** arloa: industria-prozesuen digitalizazio eta automatizazio aurreratu eta adimentsua. **IkasFabrika** (Smart Collaborative Learning Factory) proiektuan produktuak eta prozesu automatizatuak garatzen ditut.
 
-<sub>Desarrollo herramientas inteligentes para la Formación Profesional: automatización, inteligencia artificial y bots, para que los centros entiendan y usen las nuevas tecnologías.</sub>
+<sub>Área IoM de Tknika: digitalización y automatización avanzada e inteligente de procesos industriales. En IkasFabrika desarrollo productos y procesos automatizados.</sub>
 
 ---
 
