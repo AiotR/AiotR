@@ -4,7 +4,7 @@
 
 **IoM · Intelligence of Machines · Tknika**
 <br/>
-<sub>Automatizazio industrial adimentsua · Automatización industrial inteligente</sub>
+<sub>IA industriala, hardwarea eta automatizazioa · IA industrial, hardware y automatización</sub>
 
 </div>
 
